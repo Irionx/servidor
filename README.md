@@ -2,7 +2,8 @@
 back end de "cliente"
 
 
-npm run dev
+correr: npm run dev
+
 ------------------------------------------
 
 
